@@ -46,13 +46,15 @@ To solve all this issues we need to build a secure electronic voting system. A v
     Government and other organisations which require election process.
 
 ## Team details along with the contribution
-
-    Team name : Alpha Team
-    Team members :  
-                Shivam Sangal - 213050030
-                Arun Babu P T - 213050059
-                Ashwin Patidar - 213050063
-
+``` 
+Team name    : Alpha Team
+Team members :  
+               Shivam Sangal - 213050030
+               Arun Babu P T - 213050059
+               Ashwin Patidar - 213050063
+```
+### Contributions
+``` 
     1. User interface
         Arun babu PT - user login page, admin login, signup page, reset password
         Aswin - admin , user pages (create election, voting, resultpage)
@@ -63,5 +65,5 @@ To solve all this issues we need to build a secure electronic voting system. A v
         Shivam, Ashwin - integration Front end and Backend
     4. Documentation
         Arun Babu PT - code documentiation, readme.md, PPT
-
+```
 ## Path to Code Documentation (index.html)
