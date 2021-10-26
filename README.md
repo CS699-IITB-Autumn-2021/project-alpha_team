@@ -6,6 +6,7 @@ i Vote is a secure digital voting system based on blockchain technology that is 
 
 COVID-outbreak affected mostly all areas of public and private life all over the world. This outbreak has a significant impact on our democracies. 
 The worlds largest democracy India, is one of the example of how ineffective is traditional voting system during this kind of outbreaks. State authorities re-sheduled most of the initially planned elections, and others faced major side effects came along with old election method. An example for this is state of kerala, where assembly election triggerd largest wave ever happened in there and made them india's highest corona positive state. So finding an alternate election method is essential to save the lives we may lose during corona any other outbreak due to election process.
+
 Also the traditional voting system does offer anonymity to voter, but counting process is not transparent.Only the officials will know what is happening in the background and people have only choice to trust voting result.
 
 Other methods like postal voting and email voting is already deployed in many places around the globe and found that those system is unsafe and susceptible to manipulation.
