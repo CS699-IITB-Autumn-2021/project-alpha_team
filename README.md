@@ -82,4 +82,4 @@ Team members :
 
 Python code documentation will be available at
 
-    (docs/_build/html/index.html)
+    (docs/_build/html/index.html) -- update after adding sphinx code
