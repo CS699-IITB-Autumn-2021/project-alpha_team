@@ -17,6 +17,11 @@ To solve all this issues we need to build a secure electronic voting system. A v
     Make your election process modern, secure, and effective.
 ## List of features
 
+1. seperate login for both user and admin
+2. voters will be able to vote one at a time
+3. There will be a seperate portal where blockchain will be displayed and can be downloaded in form of text
+4. Voter will get a unique ID after casting vote for validation.
+4. Mobile friendly web application
 
 ## Technology Stack
 
@@ -38,8 +43,7 @@ To solve all this issues we need to build a secure electronic voting system. A v
 
 ## Hardware/Software Requirements
     Any system with a browser.
-    Flask preinstalled
-
+    
 ## how to operate
 
 
@@ -57,14 +61,12 @@ Team members :
 ### Contributions
 ``` 
     1. User interface
-        Arun babu PT - user login page, admin login, signup page, reset password
+        Arun - user login page, admin login, signup page, reset password
         Aswin - admin , user pages (create election, voting, resultpage)
-    2. Blockchain
-        Shivam - blockchain code, blockchain page
-    3. Backend
-        Shivam - Databases
+    2. Backend
+        Shivam - blockchain code, blockchain page, Databases
         Shivam, Ashwin - integration Front end and Backend
     4. Documentation
-        Arun Babu PT - code documentiation, readme.md, PPT
+        Arun - code documentiation, readme.md, PPT
 ```
 ## Path to Code Documentation (index.html)
