@@ -79,3 +79,6 @@ Team members :
         Arun - code documentiation, readme.md, PPT
 ```
 ## Path to Code Documentation (index.html)
+
+Python code documentation will be available at
+    docs/_build/html/index.html
