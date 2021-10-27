@@ -81,4 +81,5 @@ Team members :
 ## Path to Code Documentation (index.html)
 
 Python code documentation will be available at
-    docs/_build/html/index.html
+
+    (docs/_build/html/index.html)
