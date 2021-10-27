@@ -7,13 +7,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>login</title>
 
+    <!-- css files -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 <body class="grey-bg">
     <div class="container">
         <div id="outside-box" class=" position-absolute white-bg w-90 h-80 t-10 l-5 b-rad-30p">
+            
+            <!-- left part for main container -->
             <div id="inside-box-left" class=" position-absolute h-80 t-2 l-2 ">
+                
+                <!-- ivote logo -->
                 <div class=" ">
                     <div id="i-logo" class=" t-a-c bg-dark w-2 h-2 b-rad-5p d-inline-block pad-t-2px">
                         <h2 class="font-weight-bold font-w"> i</h2> 
@@ -22,6 +27,8 @@
                         <h2>Vote</h2>
                     </div>
                 </div>
+                
+                <!-- user login form -->
                 <div class="t-a-c pad-5 pad-t-10">
                     <h3 class="">Log in</h3>
                     <form class="login-form" action="">
@@ -33,7 +40,8 @@
                             <input type="password" class="highlight mt-2"  autocomplete="off" autofocus required />
                             <label class="floating-label">Password</label>
                         </div>
-         
+                        
+                        <!-- forgot password link -->
                         <a href="forgotPassword.html" class="forgot-pass ">forgot password ?</a>
                         <button type="submit" class="user-login-button w-100 black-bg font-w h-20 b-rad-5p ">
                             log in
@@ -45,6 +53,7 @@
                         </span>
                           
                     </div>
+                    <!-- link to admin page -->
                     <div class="admin-user w-100 text-al" >
                         <span class="font-g fw-400 f-r">
                             Are you an admin ?<a href="adminLogin.html" class="change-home">login</a> 
@@ -55,7 +64,10 @@
             
                 </div>   
             </div>
+            
+            <!-- right container for image and description -->
             <div id="inside-box-right" class="  position-absolute w-50 h-100 l-55  b-tb-rad-30p">
+                <!-- description-->
                 <div class="h-30 pad-t-10 pad-lr-10">
                     <p>
                         iVote is a solution dedicated to making every online voting initiative as secure and verifiable as a public election.
@@ -63,6 +75,7 @@
                     </p>
                     
                 </div>
+                <!-- image  -->
                 <div class="h-50">
                     <img src="static/hero.9dd292ee.png" alt="" class="b-tb-rad-30p" style="max-width: 80%;
                 min-height: auto; margin-left: 10%; margin-top:1%;  ">
@@ -74,7 +87,7 @@
         
       </div>
 
-
+    <!-- bootstrap -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
