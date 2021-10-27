@@ -46,7 +46,16 @@ To solve all this issues we need to build a secure electronic voting system. A v
     
 ## how to operate
 
-
+* Admin
+    * We can create admin user using -----(update this)  
+    * Admin can login to admin page
+    * Options available for create electio, Add candidates, view result
+* User (voter)
+    * Voter can signup and login from home page
+    * There is options to view election and view result 
+    * Voters can select a election by its id and cast vote
+    * After election end the result will be availble in view result page
+     
 ## Primary stakeholders of the product/service built
     Government and other organisations which require election process.
 
@@ -66,7 +75,7 @@ Team members :
     2. Backend
         Shivam - blockchain code, blockchain page, Databases
         Shivam, Ashwin - integration Front end and Backend
-    4. Documentation
+    3. Documentation
         Arun - code documentiation, readme.md, PPT
 ```
 ## Path to Code Documentation (index.html)
