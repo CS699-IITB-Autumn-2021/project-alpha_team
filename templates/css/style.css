@@ -211,6 +211,8 @@ input:not(:focus):valid ~ .floating-label {
     width: 50%;
 }
 
+/* for mobile compatibility */
+
 @media only screen and (max-width: 1200px) {
     #outside-box-forgot{
         left: 20%;
